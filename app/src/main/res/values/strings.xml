@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenGL ES tutorials</string>
+    <string name="normal_mapping_activity">Normal Mapping</string>
+</resources>
